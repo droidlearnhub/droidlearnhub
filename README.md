@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, Droid Learn Hub: Fueling the Future of Android Development</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer;Android%20Studio%20|%20Kotlin%20|%20Java;Android%20UI/UX%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developers;Android%20Studio%20|%20Java%20|%20Kotlin%20|%20Jetpack+Compose;Android%20UI/UX%20Design;Always%20learning%20new%20things&center=true&width=600&height=50"></a>
 </p>
 <h3 align="center">A passionate android developers from Chennai</h3>
 
@@ -11,17 +11,25 @@
 
 <p align="left"> <a href="https://twitter.com/droidlearnhub" target="blank"><img src="https://img.shields.io/twitter/follow/droidlearnhub?logo=twitter&style=for-the-badge" alt="droidlearnhub" /></a> </p>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<p align="center">
+  <img alt="GIF" height="160px" src="https://developer.android.com/static/images/community/raise-the-roof-droid.gif" />
+</p>
 
+At Droid Learn Hub, we're passionate about all things Android. Whether you're a seasoned developer or just starting your journey, join us in exploring the exciting world of Android development. Here's what you can expect:
+
+- 🚀 Welcome to Droid Learn Hub **Your Gateway to Android Mastery!**
+  
 - 🌱 Exploring the depths of **Android Development(Java, Kotlin and Jetypack Compose)**
 
 - 👯 Open for collaboration on **Innovative Open Source Android Projects**
 
 - 💬 Dive into discussions about **Native Android Development**
 
-- 📫 Reach out to us at **droidlearnhub@gmail.com**
+- 📫 Connect with us at **droidlearnhub@gmail.com**
 
 - ⚡ Fun fact: We're completely **immersed in the world of Android!**
+
+Join Droid Learn Hub, where knowledge meets collaboration, and together, we'll shape the future of Android development. Happy coding! 🤖
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,8 +50,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/droidlearnhub"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="droidlearnhub" /></a><a href="https://ko-fi.com/droidlearnhub"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="droidlearnhub" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=droidlearnhub&show_icons=true&locale=en&layout=compact" alt="droidlearnhub" /></p>
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=droidlearnhub&show_icons=true&locale=en&layout=compact" alt="droidlearnhub" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=droidlearnhub&show_icons=true&locale=en" alt="droidlearnhub" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=droidlearnhub&show_icons=true&locale=en" alt="droidlearnhub" /></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/tanyagupta0201)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color=FF0000)](https://github.com/tanyagupta0201)
+</div>
+
