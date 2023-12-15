@@ -19,7 +19,7 @@ At Droid Learn Hub, we're passionate about all things Android. Whether you're a 
 
 - 🚀 Welcome to Droid Learn Hub **Your Gateway to Android Mastery!**
   
-- 🌱 Exploring the depths of **Android Development(Java, Kotlin and Jetypack Compose)**
+- 🌱 Exploring the depths of **Android Development(Java, Kotlin and Jetpack Compose)**
 
 - 👯 Open for collaboration on **Innovative Open Source Android Projects**
 
